@@ -1,0 +1,8 @@
+{
+  "name": "threejs-test",
+  "version": "0.0.1",
+  "dependencies": {
+    "modernizr": "~2.6.2",
+    "threejs": "r66"
+  }
+}
